@@ -41,4 +41,9 @@ After loading and cleaning up the data, I created data models by establishing re
   
    ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
 
+#### Map
+- The map provides a visual representation of where customers are located globally. It has interactive features where you can zoom in/out, filtering
+  by specific criteria eg sales volume by region.
+  
+  ![Adventure_Works_Map]()
 
