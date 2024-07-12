@@ -67,7 +67,7 @@ After loading and cleaning up the data, I created data models by establishing re
 
   Below is a screenshot of the Customer Detail Dashboard.
 
-  ![Adventure_Works Product Detail](images/Adventure_Works%20Product%20Detail.png)
+  ![Adventure_Works Customer Detail](images/Adventure_Works%20Customer%20Detail.png)
  
 
 
