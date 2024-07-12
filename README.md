@@ -45,5 +45,5 @@ After loading and cleaning up the data, I created data models by establishing re
 - The map provides a visual representation of where customers are located globally. It has interactive features where you can zoom in/out, filtering
   by specific criteria eg sales volume by region.
   
-  ![Adventure_Works_Map]()
+  ![Adventure_Works_Map](images/Adventure_Works_Map.png)
 
