@@ -40,8 +40,8 @@ After loading and cleaning up the data, I created data models by establishing re
 - The dashboard dispalys visuals including charts and graphs for Trending Revenue, Orders among other top selling products.
   
   Below is a screenshot of the Executive Dashboard.
-  
-   ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
+
+  ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
 
 #### Map
 - The map provides a visual representation of where customers are located globally. It has interactive features where you can zoom in/out, filtering
@@ -49,7 +49,7 @@ After loading and cleaning up the data, I created data models by establishing re
   
  Below is a screenshot of the Map Dashboard.
  
-  ![Adventure_Works_Map](images/Adventure_Works_Map.png)
+ ![Adventure_Works_Map](images/Adventure_Works_Map.png)
 
 
 #### Product Detail
@@ -67,7 +67,14 @@ After loading and cleaning up the data, I created data models by establishing re
 
   Below is a screenshot of the Customer Detail Dashboard.
 
-  ![Adventure_Works Customer Detail](images/Adventure_Works%20Customer%20Detail.png)
+![Adventure_Works Customer Detail](images/Adventure_Works%20Customer%20Detail.png)
+
+#### Decomposition Tree
+
+
+![Adventure_Works Decomposition Tree ]()
+
+
  
 
 
