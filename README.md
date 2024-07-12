@@ -52,8 +52,7 @@ After loading and cleaning up the data, I created data models by establishing re
 - The product detail provides a visual representation of how different products interact with each other in terms of revenue generation,
    orders, profitability, and returns.
 
-
-![Adventure_Works Product Detail]()
+![Adventure_Works Product Detail](images/Adventure_Works%20Product%20Detail.png)
 
 
 
