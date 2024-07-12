@@ -70,7 +70,12 @@ After loading and cleaning up the data, I created data models by establishing re
 ![Adventure_Works Customer Detail](images/Adventure_Works%20Customer%20Detail.png)
 
 #### Decomposition Tree
+- The Decomposition Tree Dashboard presented here breaks down the total orders into disticnt categories inclusing accessories, bikes, and clothing. Each
+  category further branches out to provide a detailed breakdown of sub-categories and their respective contributions to total orders.
+- The viual offers insights into product category performance, revealing which catgories drive the highest number of orders and how they compare  within their
+  respective sub-categories.
 
+Below is a screenshot of the Decomposition Tree Dashboard.
 
 ![Adventure_Works Decomposition Tree ](images/Adventure_Works%20Decomposition%20Tree.png)
 
