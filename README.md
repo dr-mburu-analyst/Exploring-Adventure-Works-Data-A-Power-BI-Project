@@ -1,6 +1,6 @@
 # Power-BI-Reports
 
-## Project Title: Adventure Works  
+## Project Title: Adventure Works Power BI Project
  
  ![AdventureWorks_Logo](images/AdventureWorks_Logo.png)
 
