@@ -72,7 +72,7 @@ After loading and cleaning up the data, I created data models by establishing re
 #### Decomposition Tree
 
 
-![Adventure_Works Decomposition Tree ]()
+![Adventure_Works Decomposition Tree ](images/Adventure_Works%20Decomposition%20Tree.png)
 
 
  
