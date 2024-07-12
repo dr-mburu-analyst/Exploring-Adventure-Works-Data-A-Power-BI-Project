@@ -41,9 +41,9 @@ After loading and cleaning up the data, I created data models by establishing re
   
   Below is a screenshot of the Executive Dashboard.
 
-  ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
+![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
 
-#### Map
+#### Map Dashboard
 - The map provides a visual representation of where customers are located globally. It has interactive features where you can zoom in/out, filtering
   by specific criteria eg sales volume by region.
   
@@ -52,7 +52,7 @@ After loading and cleaning up the data, I created data models by establishing re
  ![Adventure_Works_Map](images/Adventure_Works_Map.png)
 
 
-#### Product Detail
+#### Product Detail Dashboard
 - The product detail provides a visual representation of how different products interact with each other in terms of revenue generation,
    orders, profitability, and returns.
 
@@ -61,7 +61,7 @@ After loading and cleaning up the data, I created data models by establishing re
 ![Adventure_Works Product Detail](images/Adventure_Works%20Product%20Detail.png)
 
 
-#### Customer Detail
+#### Customer Detail Dashboard
 - The Customer detail dashboard breaks down customers by demographics, seasonal influences, and top 100 customer insights.
 - Through different charts and graphs, it provides key finding and insights into revenue generation, customer behaviour, making it informative for stakeholders.
 
@@ -69,7 +69,7 @@ After loading and cleaning up the data, I created data models by establishing re
 
 ![Adventure_Works Customer Detail](images/Adventure_Works%20Customer%20Detail.png)
 
-#### Decomposition Tree
+#### Decomposition Tree Dashboard
 - The Decomposition Tree Dashboard presented here breaks down the total orders into disticnt categories inclusing accessories, bikes, and clothing. Each
   category further branches out to provide a detailed breakdown of sub-categories and their respective contributions to total orders.
 - The viual offers insights into product category performance, revealing which catgories drive the highest number of orders and how they compare  within their
@@ -80,7 +80,15 @@ Below is a screenshot of the Decomposition Tree Dashboard.
 ![Adventure_Works Decomposition Tree ](images/Adventure_Works%20Decomposition%20Tree.png)
 
 
- 
+#### Q&A Dashboard
+- The graph displays the trend of total orders across multiple years. It provides a clear visualization of how orders have evolved over time,
+  highlighting any trends or patterns that may be significant for analysis or decision-making.
+- A slicer is integrated into the dashboard, allowing users to dynamically filter data by category name.
+- A user can use the slicer to select a specific category name (e.g., accessories, bikes, clothing) to view its corresponding total orders on the graph.
+
+ Below is a screenshot of the Q&A Dashboard.
+
+![Adventure_Works Q&A]()
 
 
 
