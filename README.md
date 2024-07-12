@@ -39,6 +39,6 @@ After loading and cleaning up the data, I created data models by establishing re
   health of the company and identify areas that need attention or improvement.
 - The dashboard dispalys visuals including charts and graphs for Trending Revenue, Orders among other top selling products.
   
-   ![Adventure Works Executive Dashboard](images/Adventure Works Executive Dashboard.png)
+   ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
 
 
