@@ -88,7 +88,7 @@ Below is a screenshot of the Decomposition Tree Dashboard.
 
  Below is a screenshot of the Q&A Dashboard.
 
-![Adventure_Works Q&A]()
+![Adventure_Works Q&A](images/Adventure_Works%20Q%26A.png)
 
 
 
