@@ -1,6 +1,6 @@
 # Power-BI-Reports
 
-### Project Title: Adventure Works
+## Project Title: Adventure Works
 
 ### Project Description
 
@@ -28,10 +28,17 @@ After loading and cleaning up the data, I created data models by establishing re
   - **Products to Sales**: One product can appear in many sales transactions.
   - **Sales to Returns**: One sales transaction can have multiple returns.
     
- Below is a screenshot of my model view.
+ Below is a screenshot of the model view.
   
   ![Adventure Works Data Model](images/Adventure_Works_Data_Model.png)
   
 ### Key Visualizations
--
+
+#### Executive Dashboard: 
+- This is the major dashboard that houses the company's KPI's and metric that are crucial for decision-making. Executives can quickly assess the overall
+  health of the company and identify areas that need attention or improvement.
+- The dashboard dispalys visuals including charts and graphs for Trending Revenue, Orders among other top selling products.
+  
+   ![Adventure Works Executive Dashboard](images/Adventure Works Executive Dashboard.png)
+
 
