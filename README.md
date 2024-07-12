@@ -39,12 +39,16 @@ After loading and cleaning up the data, I created data models by establishing re
   health of the company and identify areas that need attention or improvement.
 - The dashboard dispalys visuals including charts and graphs for Trending Revenue, Orders among other top selling products.
   
+  Below is a screenshot of the Executive Dashboard.
+  
    ![Adventure Works Executive Dashboard](images/Adventure%20Works%20Executive%20Dashboard.png)
 
 #### Map
 - The map provides a visual representation of where customers are located globally. It has interactive features where you can zoom in/out, filtering
   by specific criteria eg sales volume by region.
   
+ Below is a screenshot of the Map Dashboard.
+ 
   ![Adventure_Works_Map](images/Adventure_Works_Map.png)
 
 
@@ -52,7 +56,19 @@ After loading and cleaning up the data, I created data models by establishing re
 - The product detail provides a visual representation of how different products interact with each other in terms of revenue generation,
    orders, profitability, and returns.
 
+ Below is a screenshot of the Product Detail Dashboard.
+
 ![Adventure_Works Product Detail](images/Adventure_Works%20Product%20Detail.png)
+
+
+#### Customer Detail
+- The Customer detail dashboard breaks down customers by demographics, seasonal influences, and top 100 customer insights.
+- Through different charts and graphs, it provides key finding and insights into revenue generation, customer behaviour, making it informative for stakeholders.
+
+  Below is a screenshot of the Customer Detail Dashboard.
+
+  ![Adventure_Works Product Detail](images/Adventure_Works%20Product%20Detail.png)
+ 
 
 
 
