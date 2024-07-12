@@ -1,6 +1,8 @@
 # Power-BI-Reports
 
-## Project Title: Adventure Works 
+## Project Title: Adventure Works   ![AdventureWorks_Logo](images/AdventureWorks_Logo.png)
+
+https://github.com/dr-mburu-analyst/Power-BI-Reports/blob/main/images/AdventureWorks_Logo.png
 
 ### Project Description
 
